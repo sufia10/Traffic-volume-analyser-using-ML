@@ -16,7 +16,7 @@ This project analyzes real-world traffic data and predicts traffic volume using 
 📘 *I’m currently learning Python and machine learning — this project was completed with help from ChatGPT and other learning resources.*
 ## 🔗 Project Files
 
-- [📄 View Full Code (Notebook)](./traffic_volume_prediction.ipynb)
+- [📄 View Full Code (Notebook)](./traffic_volume_analyzer.ipynb)
 - [📘 Final Report](./report.pdf)
 
 ---

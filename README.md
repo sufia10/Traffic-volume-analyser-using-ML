@@ -14,9 +14,10 @@ This project analyzes real-world traffic data and predicts traffic volume using 
 - Visualized traffic trends with bar graphs
 
 📘 *I’m currently learning Python and machine learning — this project was completed with help from ChatGPT and other learning resources.*
+## 🔗 Project Files
 
-## 📄 Report
-You can view the full project report [here](./report.pdf)
+- [📄 View Full Code (Notebook)](./traffic_volume_prediction.ipynb)
+- [📘 Final Report](./report.pdf)
 
 ---
 
